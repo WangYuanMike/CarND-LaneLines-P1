@@ -5,11 +5,16 @@
 
 For Reviewers
 ---
-P1.ipynb: my implmentation of the pipeline and its output
-writeup.md: my writeup for this project
-test_image/challenge.jpg: I took a snapshot from the challenge.mp4 video for pipeline implementation
-test_images_output: the directory which consists of all test image output
-test_video_output: the directory which consists of all test video output
+**P1.ipynb**: my implmentation of the pipeline and its output
+
+**writeup.md**: my writeup for this project
+
+**test_image/challenge.jpg**: I took a snapshot from the challenge.mp4 video for pipeline implementation
+
+**test_images_output**: the directory which consists of all test image output
+
+**test_video_output**: the directory which consists of all test video output
+
 
 Overview
 ---
