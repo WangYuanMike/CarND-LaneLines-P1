@@ -3,6 +3,11 @@
 
 <img src="examples/laneLines_thirdPass.jpg" width="480" alt="Combined Image" />
 
+Exponentially Weighted Average (EWA)
+---
+Andrew Ng introduced EWA in explaining optimizer Momentum. I tried it in smoothing shaky lane lines. The result shows that choose beta = 0.9 could help to generate a pretty stable lane lines, but the bias correction does not work well for the beginning several seconds in the test video. Check more details about EWA in Andrew's lecture:
+https://www.coursera.org/learn/deep-neural-network/lecture/XjuhD/bias-correction-in-exponentially-weighted-averages
+
 For Reviewers
 ---
 **P1.ipynb**: my implmentation of the pipeline and its output
